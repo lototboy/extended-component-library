@@ -9,9 +9,7 @@
 ## About Us
 
 Garage Door Kings LLC is a professional garage door service provider based in Foxborough, MA and surrounding areas.  
-Short Description: RANDOM
 
----
 
 ## Main Services
 
@@ -20,7 +18,6 @@ Short Description: RANDOM
 - Sales of garage door parts & accessories
 - Consultation & site survey
 
----
 
 ## Contact & Location
 
@@ -40,13 +37,6 @@ See our customer reviews on [Google Maps](https://goo.gl/maps/PwhKHkJY5xdsC1SV8?
 
 View our license documents [here](https://sg.docworkspace.com/d/sILue88S-Av2R0sUG?sa=601.1074)
 
----
-
-## Social Media & Branding
-
-- *(Add your logo or social media links here if available)*
-
----
 
 ## Why Choose Us?
 
